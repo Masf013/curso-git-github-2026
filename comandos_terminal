@@ -1,3 +1,5 @@
 Ls -> Listar
 Cd -> Movr entre pastas
 Pwd -> Mostrar diretórios de trabalho
+cat -> exibe conteúdo do arquivo
+rm -> remove o arquivo ou diretório
